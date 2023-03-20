@@ -8,7 +8,6 @@ import hu.bme.mit.train.controller.Tachograph;
 import hu.bme.mit.train.interfaces.TrainController;
 import hu.bme.mit.train.interfaces.TrainSensor;
 import hu.bme.mit.train.interfaces.TrainUser;
-import hu.bme.mit.train.system.TrainSystem;
 
 public class TrainSystemTest {
 
