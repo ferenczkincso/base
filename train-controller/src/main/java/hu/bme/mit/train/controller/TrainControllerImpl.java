@@ -23,7 +23,7 @@ public class TrainControllerImpl implements TrainController {
 
 		enforceSpeedLimit();
 	}
-	@Override
+	
 	//Emergency break 
 	public void emergencyBrake(){
 		if (break_on == true)
