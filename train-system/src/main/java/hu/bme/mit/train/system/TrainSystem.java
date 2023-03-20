@@ -1,6 +1,5 @@
 package hu.bme.mit.train.system;
 
-import javax.swing.plaf.basic.BasicTabbedPaneUI.TabSelectionHandler;
 import hu.bme.mit.train.controller.Tachograph;
 import hu.bme.mit.train.controller.TrainControllerImpl;
 import hu.bme.mit.train.interfaces.TrainController;
